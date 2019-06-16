@@ -251,6 +251,8 @@ export enum TokenSymbol {
     Xbc = 'xbc',
     Dai = 'dai',
     Dgd = 'dgd',
+    King = 'king',
+    Link = 'link',
     Mkr = 'mkr',
     Mln = 'mln',
     Rep = 'rep',
