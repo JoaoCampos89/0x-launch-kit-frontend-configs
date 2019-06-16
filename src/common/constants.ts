@@ -71,6 +71,7 @@ export const STEP_MODAL_DONE_STATUS_VISIBILITY_TIME: number =
 
 export const OPENSEA_API_KEY = process.env.REACT_APP_OPENSEA_API_KEY;
 
+// Had to tweak Ganache -> Mainnet
 export const NETWORK_ID: number = Number.parseInt(process.env.REACT_APP_NETWORK_ID as string, 10) || Network.Mainnet;
 
 export const NETWORK_NAME: string = Network[NETWORK_ID];
