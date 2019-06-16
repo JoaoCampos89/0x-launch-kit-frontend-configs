@@ -31,6 +31,7 @@ import { ReactComponent as WethTokenIcon } from '../../../assets/icons/weth.svg'
 import { ReactComponent as ZilTokenIcon } from '../../../assets/icons/zil.svg';
 import { ReactComponent as ZrxTokenIcon } from '../../../assets/icons/zrx.svg';
 import { ReactComponent as XbcTokenIcon } from '../../../assets/icons/xbc.svg';
+import { ReactComponent as KingTokenIcon } from '../../../assets/icons/king.svg';
 import { Theme } from '../../../themes/commons';
 
 interface Props {
@@ -54,6 +55,7 @@ const TokenIcons = {
     WethTokenIcon,
     FunTokenIcon,
     GnoTokenIcon,
+    KingTokenIcon,
     LinkTokenIcon,
     LptTokenIcon,
     ManaTokenIcon,
