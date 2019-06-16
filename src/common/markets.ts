@@ -10,11 +10,19 @@ export const availableMarkets: CurrencyPair[] = [
         quote: TokenSymbol.Xbc,
     },
     {
+        base: TokenSymbol.Zrx,
+        quote: TokenSymbol.Xbc,
+    },
+    {
         base: TokenSymbol.Xbc,
         quote: TokenSymbol.Dai,
     },
     {
         base: TokenSymbol.Dgd,
+        quote: TokenSymbol.Dai,
+    },
+    {
+        base: TokenSymbol.Link,
         quote: TokenSymbol.Dai,
     },
     {
@@ -27,6 +35,10 @@ export const availableMarkets: CurrencyPair[] = [
     },
     {
         base: TokenSymbol.Xbc,
+        quote: TokenSymbol.Weth,
+    },
+    {
+        base: TokenSymbol.Link,
         quote: TokenSymbol.Weth,
     },
     {
