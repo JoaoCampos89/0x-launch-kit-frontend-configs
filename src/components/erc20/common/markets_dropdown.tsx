@@ -237,16 +237,16 @@ const marketFilters: Filter[] = [
         value: null,
     },
     {
-        text: 'ETH',
-        value: TokenSymbol.Weth,
+        text: tokenSymbolToDisplayString(TokenSymbol.Xbc),
+        value: TokenSymbol.Xbc,
     },
     {
         text: tokenSymbolToDisplayString(TokenSymbol.Dai),
         value: TokenSymbol.Dai,
     },
     {
-        text: tokenSymbolToDisplayString(TokenSymbol.Xbc),
-        value: TokenSymbol.Xbc,
+        text: 'ETH',
+        value: TokenSymbol.Weth,
     },
 ];
 
