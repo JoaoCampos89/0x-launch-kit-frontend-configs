@@ -3,7 +3,7 @@ In this repo are all changes and configs for 0xBitcoin Exchange built on the top
 
 0x Project's template repo: https://github.com/0xProject/0x-launch-kit-frontend.git
 
-After thisrepo is applied: http://dex.0xchange.org:3002/#/erc20/?base=xbc&quote=dai
+See the end result in our case: http://dex.0xchange.org:3002/#/erc20/?base=xbc&quote=dai
 
 
 # Workflow
