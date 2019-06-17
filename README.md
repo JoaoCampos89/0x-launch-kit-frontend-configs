@@ -1,5 +1,5 @@
 # 0x-launch-kit-frontend-configs
-In this repo are all changes and configs for 0xBitcoin Exchange built on the top of 0x Project's template.
+In this repo are all changes and configs for 0xBitcoin Exchange.
 
 0x Project's template repo: https://github.com/0xProject/0x-launch-kit-frontend.git
 
