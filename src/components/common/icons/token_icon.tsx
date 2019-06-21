@@ -32,6 +32,7 @@ import { ReactComponent as ZilTokenIcon } from '../../../assets/icons/zil.svg';
 import { ReactComponent as ZrxTokenIcon } from '../../../assets/icons/zrx.svg';
 import { ReactComponent as XbcTokenIcon } from '../../../assets/icons/xbc.svg';
 import { ReactComponent as KingTokenIcon } from '../../../assets/icons/king.svg';
+import { ReactComponent as LiraTokenIcon } from '../../../assets/icons/lira.svg';
 import { Theme } from '../../../themes/commons';
 
 interface Props {
@@ -57,6 +58,7 @@ const TokenIcons = {
     GnoTokenIcon,
     KingTokenIcon,
     LinkTokenIcon,
+    LiraTokenIcon,
     LptTokenIcon,
     ManaTokenIcon,
     MkrTokenIcon,
@@ -72,7 +74,7 @@ const TokenIcons = {
     WaxTokenIcon,
     ZilTokenIcon,
     ZrxTokenIcon,
-    XbcTokenIcon,
+    ZxbTokenIcon,
 };
 
 const IconContainer = styled.div<{ color: string; isInline?: boolean }>`
