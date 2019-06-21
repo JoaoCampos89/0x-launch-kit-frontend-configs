@@ -3,18 +3,22 @@ import { CurrencyPair, TokenSymbol } from '../util/types';
 export const availableMarkets: CurrencyPair[] = [
     {
         base: TokenSymbol.King,
-        quote: TokenSymbol.Xbc,
+        quote: TokenSymbol.Zxb,
     },
     {
         base: TokenSymbol.Link,
-        quote: TokenSymbol.Xbc,
+        quote: TokenSymbol.Zxb,
+    },
+    {
+        base: TokenSymbol.Lira,
+        quote: TokenSymbol.Zxb,
     },
     {
         base: TokenSymbol.Zrx,
-        quote: TokenSymbol.Xbc,
+        quote: TokenSymbol.Zxb,
     },
     {
-        base: TokenSymbol.Xbc,
+        base: TokenSymbol.Zxb,
         quote: TokenSymbol.Dai,
     },
     {
@@ -34,7 +38,7 @@ export const availableMarkets: CurrencyPair[] = [
         quote: TokenSymbol.Dai,
     },
     {
-        base: TokenSymbol.Xbc,
+        base: TokenSymbol.Zxb,
         quote: TokenSymbol.Weth,
     },
     {
