@@ -21,9 +21,7 @@ See the end result in our case: http://dex.0xchange.org:3002/#/erc20/?base=xbc&q
 Note that you can skip the hard disk part if you know how to do this properly on the server!
 
 Launch script that uses our open backend:
-`REACT_APP_RELAYER_URL='http://relay.0xchange.org:3001/v2/' yarn start`
+`REACT_APP_RELAYER_URL='https://relay.0xchange.org/v2/' yarn start`
 
-See that everything works:
-`http://138.197.135.82:3002/#/erc20/?base=xbc&quote=dai` (check http/s, ip and port)
 
 
