@@ -30,7 +30,7 @@ import { ReactComponent as WaxTokenIcon } from '../../../assets/icons/wax.svg';
 import { ReactComponent as WethTokenIcon } from '../../../assets/icons/weth.svg';
 import { ReactComponent as ZilTokenIcon } from '../../../assets/icons/zil.svg';
 import { ReactComponent as ZrxTokenIcon } from '../../../assets/icons/zrx.svg';
-import { ReactComponent as XbcTokenIcon } from '../../../assets/icons/xbc.svg';
+import { ReactComponent as ZxbTokenIcon } from '../../../assets/icons/zxb.svg';
 import { ReactComponent as KingTokenIcon } from '../../../assets/icons/king.svg';
 import { ReactComponent as LiraTokenIcon } from '../../../assets/icons/lira.svg';
 import { Theme } from '../../../themes/commons';
