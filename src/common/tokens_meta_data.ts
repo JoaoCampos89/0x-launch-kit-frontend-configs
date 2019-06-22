@@ -11,7 +11,7 @@ export interface TokenMetaData {
 export const KNOWN_TOKENS_META_DATA: TokenMetaData[] = [
     {
         decimals: 8,
-        symbol: TokenSymbol.Xbc,
+        symbol: TokenSymbol.Zxb,
         name: '0xBitcoin',
         primaryColor: '#ff7423',
         addresses: {
@@ -72,7 +72,18 @@ export const KNOWN_TOKENS_META_DATA: TokenMetaData[] = [
             50: '0x0000000000000000000000000000000000000000',
         },
     },
-
+	    {
+        decimals: 8,
+        symbol: TokenSymbol.Lira,
+        name: 'Lira Cash',
+        primaryColor: '#6997e0',
+        addresses: {
+            1: '0x49aaa160506f7e07e6c3f6cd6316b6866025cdcb',
+            4: '0x0000000000000000000000000000000000000000',
+            42: '0x0000000000000000000000000000000000000000',
+            50: '0x0000000000000000000000000000000000000000',
+        },
+    },
 	{
         decimals: 18,
         symbol: TokenSymbol.Weth,
