@@ -238,7 +238,7 @@ const marketFilters: Filter[] = [
     },
     {
         text: tokenSymbolToDisplayString(TokenSymbol.Zxb),
-        value: TokenSymbol.Xbc,
+        value: TokenSymbol.Zxb,
     },
     {
         text: tokenSymbolToDisplayString(TokenSymbol.Dai),
